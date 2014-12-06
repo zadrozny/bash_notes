@@ -6,5 +6,5 @@
 
 * If using cron to run a Python process, first confirm the script is working by testing it manually. 
 
-* Confirm the #! line is correct by testing the script with ./script
+* Confirm the #! path is correct by testing the script with ./script
 
