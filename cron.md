@@ -1,6 +1,6 @@
 # CRON NOTES
 
-* * * * * * : minute hour day month year
+* \* * * * * : minute hour day month year
 
 * confirm time on machine with `date`. Many servers use UTC. 
 
