@@ -8,3 +8,4 @@
 
 * Confirm the #! path is correct by testing the script with ./script
 
+* Syntax to run a job every 5 minutes: */5 * * * *
